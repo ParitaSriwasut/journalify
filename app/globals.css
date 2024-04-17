@@ -18,13 +18,10 @@ body {
 }
 
 .Link {
-  color: blue;
-  border: 2px solid blue;
-  padding: 0.5rem;
-  border-radius: 0.25rem;
-  transition: color 0.2s, background-color 0.2s;
+  color: rgb(103, 16, 190);
+  border: 2px solid palevioletred;
 }
 
 .Link:hover {
-  color: darkblue;
+  color: plum;
 }
